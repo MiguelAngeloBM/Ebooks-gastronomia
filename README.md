@@ -2,7 +2,7 @@
 
 ## Overview
 
-Olá! Sou Miguel Angelo, um apaixonado chef de cozinha, e este é o meu cantinho virtual dedicado à culinária. Desde muito jovem, fui cativado pelos aromas e sabores que emanavam da cozinha da minha avó. Cresci em [cidade], [país], cercado pela riqueza da culinária caseira e tradicional. Aos 14 anos, dei meus primeiros passos na cozinha, ajudando minha avó e experimentando minhas próprias criações.
+Olá! Sou Miguel Angelo, um apaixonado chef de cozinha, e este é o meu cantinho virtual dedicado à culinária. Desde muito jovem, fui cativado pelos aromas e sabores que emanavam da cozinha da minha avó. Cresci em Belo horizonte,Minas gerais, cercado pela riqueza da culinária caseira e tradicional. Aos 14 anos, dei meus primeiros passos na cozinha, ajudando minha avó e experimentando minhas próprias criações.
 
 ## Minha Jornada Culinária
 
